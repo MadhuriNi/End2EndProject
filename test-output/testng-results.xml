@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85610" started-at="2017-11-15T17:05:40Z" finished-at="2017-11-15T17:07:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85610" started-at="2017-11-15T17:05:40Z" finished-at="2017-11-15T17:07:05Z">
+      <class name="Selenium.mainClass">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Selenium.mainClass@cc285f4]" name="basePageNavigation" duration-ms="39121" started-at="2017-11-15T12:05:40Z" data-provider="object" finished-at="2017-11-15T12:06:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Selenium.mainClass@cc285f4]" name="basePageNavigation" duration-ms="46454" started-at="2017-11-15T12:06:19Z" data-provider="object" finished-at="2017-11-15T12:07:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhuri.nirmale@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vanita786$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- Selenium.mainClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+Browser=firefox
+
+FirefoxDriver=webdriver.gecko.driver
+FirefoxDriverPath=C:\\geckodriver-v0.18.0-win64\\geckodriver.exe
+
+ChromeDriver=webdriver.chrome.driver
+ChromeDriverPath=C:\\chromedriver_win32\\chromedriver.exe
+
+userid=862711
+password=862711
